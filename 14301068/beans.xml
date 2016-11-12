@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="egg dishes" class="test.edu.javaee.spring.Dishes">
+		<property name="dishName" value="fry eggs"></property>
+		<property name="dishPrice" value="20"></property>
+	</bean>
+</beans>
